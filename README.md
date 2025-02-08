@@ -23,6 +23,6 @@ Built with Swift and designed for sandboxed environments.
 Wasn't planned, but I had 30ish  emails "forwarded as attachments", and I needed the respectives adjuncts,  A App successfuly extracted the excel files I needed.
 
 ### Why this app?   
-
-- Had to sum up 365 amounts, and for a significant quantity of I had to retrieve from  emails.
+s
+- Had to sum up 365 amounts, and for a significant quantity of I had to retrieve from excel attachments of my emails.
 - Used Google Takeout to receive an archive of those emails, and the ".mbox" format, which is quite a format, wasn't expected.
